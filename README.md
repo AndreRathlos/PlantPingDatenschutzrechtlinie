@@ -1,6 +1,19 @@
 # PlantPing - Ihre Pflanzenpflege-App
 
-PlantPing ist Ihre persönliche Assistenz-App für die Pflanzenpflege. Sie hilft Ihnen dabei, Ihre Pflanzen optimal zu versorgen und den Überblick über deren Pflege zu behalten. Bei Fragen/Probleme erstelle ein Issue.
+PlantPing ist Ihre persönliche Assistenz-App für die Pflanzenpflege. Sie hilft Ihnen dabei, Ihre Pflanzen optimal zu versorgen und den Überblick über deren Pflege zu behalten. Bei Problemen bitte ein Issue erstellen.
+
+## Inhaltsverzeichnis
+1. [Hauptfunktionen](#hauptfunktionen)
+   - [Pflanzen verwalten](#1-pflanzen-verwalten)
+   - [Räume verwalten](#2-räume-verwalten)
+   - [Bewässerung](#3-bewässerung)
+   - [Benachrichtigungen](#4-benachrichtigungen)
+   - [Sortierung und Filterung](#5-sortierung-und-filterung)
+   - [Foto-Verwaltung](#6-foto-verwaltung)
+2. [Tipps zur Nutzung](#tipps-zur-nutzung)
+3. [Fehlerbehebung](#fehlerbehebung)
+4. [Datensicherheit](#datensicherheit)
+5. [Datenschutzrichtlinie](#datenschutzrichtlinie)
 
 ## Hauptfunktionen
 
@@ -101,4 +114,29 @@ In der Detailansicht einer Pflanze:
 
 - Alle Daten werden lokal auf Ihrem Gerät gespeichert
 - Es werden keine Daten an externe Server übertragen
-- Regelmäßige App-Updates werden empfohlen 
+- Regelmäßige App-Updates werden empfohlen
+
+## Datenschutzrichtlinie
+
+### Datenerhebung und -speicherung
+- PlantPing erhebt ausschließlich die von Ihnen eingegebenen Daten zu Ihren Pflanzen
+- Alle Daten werden ausschließlich lokal auf Ihrem Gerät gespeichert
+- Es findet keine Übertragung von Daten an externe Server oder Dritte statt
+
+### Berechtigungen
+Die App benötigt folgende Berechtigungen:
+- Kamera: Nur für das Aufnehmen von Pflanzenfotos
+- Fotomediathek: Zum Speichern und Abrufen von Pflanzenfotos
+- Benachrichtigungen: Für Gießerinnerungen
+
+### Datenlöschung
+- Alle App-Daten können jederzeit durch Deinstallation der App vollständig gelöscht werden
+- Einzelne Pflanzen und deren Daten können jederzeit in der App gelöscht werden
+- Fotos können einzeln aus den Pflanzeneinträgen entfernt werden
+
+### Kontakt
+Bei Fragen zum Datenschutz kontaktieren Sie uns bitte unter:
+[Kontaktinformationen hier einfügen]
+
+Stand: Dezember 2024
+André Rath
