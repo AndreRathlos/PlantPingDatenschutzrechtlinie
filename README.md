@@ -1,2 +1,2 @@
-# PlantPing-Datenschutzrechtlinie
-Datenschutzrichtlinie für PlantPing-App
+# PlantPing-Support
+Support für PlantPing-App
