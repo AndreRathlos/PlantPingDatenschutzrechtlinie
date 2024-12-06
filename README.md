@@ -135,8 +135,7 @@ Die App benötigt folgende Berechtigungen:
 - Fotos können einzeln aus den Pflanzeneinträgen entfernt werden
 
 ### Kontakt
-Bei Fragen zum Datenschutz kontaktieren Sie uns bitte unter:
-[Kontaktinformationen hier einfügen]
+Bei Fragen zum Datenschutz kontaktieren Sie uns mithilfe einem Issues in Github!
 
 Stand: Dezember 2024
 André Rath
