@@ -8,7 +8,7 @@ This README file provides a brief overview and links to the complete German and 
 ## Deutsch (DE)
 
 Für die vollständige deutsche Dokumentation:  
-[README_DE.md](./de/README_DE.md)
+[README_DE.md](de_README.md)
 
 Diese Version enthält alle Informationen zur Nutzung von PlantPing auf Deutsch.
 
@@ -17,6 +17,6 @@ Diese Version enthält alle Informationen zur Nutzung von PlantPing auf Deutsch.
 ## English (EN)
 
 For the full English documentation:  
-[README_EN.md](./en/README_EN.md)
+[README_EN.md](en_README.md)
 
 This version contains all usage information for PlantPing in English.
