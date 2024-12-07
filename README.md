@@ -138,4 +138,5 @@ Die App benötigt folgende Berechtigungen:
 Bei Fragen zum Datenschutz kontaktieren Sie uns mithilfe einem Issues in Github!
 
 Stand: Dezember 2024
+
 André Rath
